@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+To see this pizza-store open (https://git.heroku.com/pizza-react-project.git)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
